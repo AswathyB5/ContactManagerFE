@@ -15,7 +15,7 @@ const AddContact = () => {
   }
 
   return (
-    <div className="container mt-5 text-center" style={{marginLeft:"400px"}}>
+    <div className="container mt-5 text-center" style={{marginLeft:"600px"}}>
       <div className="card" style={{ width: "18rem" }}>
         <div className="card-body">
           <input
