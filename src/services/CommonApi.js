@@ -1,7 +1,5 @@
 import axios from "axios";
 
-
-
 const CommonApi = async(method,url,reqBody) => {
     let configObj={
         method:method,
